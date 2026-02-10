@@ -1,0 +1,16 @@
+# Credentials
+.env
+*.pem
+*.key
+
+# Data files
+*.parquet
+*.csv
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
